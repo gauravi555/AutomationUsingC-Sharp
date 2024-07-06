@@ -21,7 +21,10 @@ namespace TestProject1
         }
 
         [Test]
-        public void 
+        public void LoginTest()
+        {
+            Console.WriteLine("Login successfull")
+        }
 
     }
 }
